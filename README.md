@@ -1,5 +1,5 @@
 # Exercise-01d-Inky-Misc
 
-# Your Name
+# Josephine Dugger
 
-# Your Github username
+# Jmdugg
